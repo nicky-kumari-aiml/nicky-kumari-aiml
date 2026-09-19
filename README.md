@@ -1,7 +1,7 @@
 Hi, I'm Nicky 
 
 AI & Machine Learning student at T John Institute of Technology, Bangalore  
-UI/UX Designer (Figma) | 🔧 IoT & Hardware Enthusiast | 🐍 Python & C
+UI/UX Designer (Figma) |  IoT & Hardware Enthusiast |  Python & C
 
 - Currently learning: Machine Learning fundamentals
 - Designed the UI/UX for an educational app, "Learn & Fun" 
